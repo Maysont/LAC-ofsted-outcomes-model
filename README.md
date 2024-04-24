@@ -18,7 +18,7 @@ We used 4 different models each of which is placed in the modelling folder under
 
 # Getting started 
 
-To replicate this analysis, clone this repository on your local machine
+To replicate this analysis, clone this repository on your local machine or download the files individually. Open in google collab for the best experience. 
 
 git clone https://github.com/Maysont/LAC-ofsted-outcomes-model.git
 
